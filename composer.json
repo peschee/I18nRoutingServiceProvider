@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "silex/silex": "1.0.*"
+        "silex/silex": "~1.1"
     },
     "require-dev": {
         "symfony/translation": "2.1.*"
